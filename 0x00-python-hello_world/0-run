@@ -1,3 +1,8 @@
 #!/usr/bin/python3
+<<<<<<< HEAD
 print("Best School")
+=======
+print("Best School") 
+
+>>>>>>> d4c826faf6040d30fcb54c0776160003e338e005
 
